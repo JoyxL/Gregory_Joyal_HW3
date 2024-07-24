@@ -1,5 +1,6 @@
 # Gregory_Joyal_Hw3
-This is a repository for typography assignmet in web class
+This is a repository for responsive webpage assignmet in web class
+
 ## Installation
 1. Click on the link to the sample repository provided;
 2. On the repo, click on the green button "< > Code";
